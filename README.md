@@ -1,3 +1,9 @@
+# profile-title: 🏳️ тестовая подписка
+# profile-update-interval: 1
+# Date/Time: 2026-07-26 / 22:39 (Moscow)
+# Количество: 10
+# For more info and VPN-configs - visit: https://github.com/goodbeast938629/vpn/blob/main/README.md
+
 trojan://PI36027154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%40outlineOpenKey
 trojan://521314@104.16.100.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram&sni=tjplay.lxdxo.kdns.fr&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%7C%20%40outlineOpenKey
 trojan://521314@104.16.97.215:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%7C%20%40outlineOpenKey
