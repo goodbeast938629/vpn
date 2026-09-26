@@ -1,1 +1,1 @@
-https://anyray.duckdns.org:2096/atoVPN/stph6td7slb31i0j
+https://panel-3x-ui-anyray.duckdns.org:2096/anyrayVPN/j1tebtplamibsfl7
